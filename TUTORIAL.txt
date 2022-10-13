@@ -1,0 +1,5 @@
+1.Instalar Python3.8 de https://python.org/downloads
+4.Abrir instalador.py
+5.Entrar a csgo
+6.Abrir JakalTestV1.py
+7.Configurar a gusto!
